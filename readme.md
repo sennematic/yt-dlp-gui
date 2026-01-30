@@ -1,5 +1,5 @@
 # yt-dlp GUI Wrapper
-
+## Please note this is a work-in-progress
 A clean, user-friendly graphical interface for `yt-dlp` designed with accessibility in mind. This tool was specifically built to help users who prefer a visual workflow over command-line interfaces for downloading media for presentations.
 
 ## Key Features
